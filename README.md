@@ -6,16 +6,16 @@ php 8.1
 mysql 5.1
 step to install or using app:
 
-clone this repo
-open CMD or terminal
-goto cloned directory do this command :
-composer install
-cp .env.example .env
-php artisan key:generate
-make sure the destined table has been added to database 'bookmanager'
-php artisan migrate
-php artisan db:seed
-php artisan serve
+- clone this repo
+- open CMD or terminal
+- goto cloned directory do this command :
+- composer install
+- cp .env.example .env
+- php artisan key:generate
+- make sure the destined table has been added to database 'bookmanager'
+- php artisan migrate
+- php artisan db:seed
+- php artisan serve
 
 
 
