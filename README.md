@@ -16,6 +16,9 @@ step to install or using app:
 - php artisan migrate
 - php artisan db:seed
 - php artisan serve
+- open other terminal
+- go to project folder
+- npm run dev
 
 
 
